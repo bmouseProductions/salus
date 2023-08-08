@@ -146,15 +146,6 @@ const info = [
     quantidade: 2,
     link: "https://www.dropbox.com/sh/ntqjzefe2vogy6e/AAAsS_kl_Sae6C3q3uEWeiq-a?dl=0",
   },
-  /* {
-    title: "Fernanda Sorriden",
-    data: "29/07/2023",
-    video:
-      "https://player.vimeo.com/video/852745962?h=803e5ab6e6&badge=0&autopause=0&player_id=0&app_id=58479&autoplay=1&muted=1&loop=1" +
-      "&autoplay=1&muted=1&loop=1",
-    quantidade: 2,
-    link: "https://www.dropbox.com/sh/ntqjzefe2vogy6e/AAAsS_kl_Sae6C3q3uEWeiq-a?dl=0",
-  }, */
   {
     title: "Sorridents - Pílulas bichectomia",
     data: "29/07/2023",
@@ -373,7 +364,7 @@ export const Slides = () => {
               Relatório Audiovisual Bmouse Productions
             </h1>
             <h2 className="text-lg font-semibold">Total de fotos: 224</h2>
-            <h2 className="text-lg font-semibold">Total de vídeos: 123</h2>
+            <h2 className="text-lg font-semibold">Total de vídeos: 125</h2>
             <button className="m-auto py-5 px-10 rounded-full bg-[#85858560] shadow-2xl text-[#ffffffdb]">
               <a
                 href="https://www.bmouseproductions.com/view/Arquivos/Salus/links.html"
