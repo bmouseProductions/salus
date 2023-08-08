@@ -146,7 +146,7 @@ const info = [
     quantidade: 2,
     link: "https://www.dropbox.com/sh/ntqjzefe2vogy6e/AAAsS_kl_Sae6C3q3uEWeiq-a?dl=0",
   },
-  {
+  /* {
     title: "Fernanda Sorriden",
     data: "29/07/2023",
     video:
@@ -154,7 +154,7 @@ const info = [
       "&autoplay=1&muted=1&loop=1",
     quantidade: 2,
     link: "https://www.dropbox.com/sh/ntqjzefe2vogy6e/AAAsS_kl_Sae6C3q3uEWeiq-a?dl=0",
-  },
+  }, */
   {
     title: "Sorridents - Pílulas bichectomia",
     data: "29/07/2023",
