@@ -9,6 +9,8 @@
 body {
   width: 100vw;
   color: #000;
+  overflow-y: hidden;
+  overflow-x: hidden;
 }
 
 .swiper {

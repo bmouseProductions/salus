@@ -44,7 +44,7 @@ const info = [
     link: "https://www.dropbox.com/sh/u3942r0a8epgknm/AADcbh2ZNKaipbeV4C0WJ_ECa?dl=0",
   },
   {
-    title: "GiOlaser",
+    title: "Pílulas GiOlaser",
     video:
       "https://player.vimeo.com/video/852697480?h=982fb43c45&badge=0&autopause=0&player_id=0&app_id=58479&autoplay=1&muted=1&loop=1" +
       "&autoplay=1&muted=1&loop=1",
@@ -69,7 +69,7 @@ const info = [
     link: "https://www.dropbox.com/sh/rmgx8zko5km9u30/AAAy2HGdxpqYykkkHGKlBKZ4a?dl=0",
   },
   {
-    title: "Bmouse e oficial",
+    title: "Vídeo oficial BMouse para Salus",
     video:
       "https://player.vimeo.com/video/852737980?h=8c6d8e7c51&badge=0&autopause=0&player_id=0&app_id=58479&autoplay=1&muted=1&loop=1" +
       "&autoplay=1&muted=1&loop=1",
@@ -138,7 +138,7 @@ const info = [
     link: "https://www.dropbox.com/sh/ntqjzefe2vogy6e/AAAsS_kl_Sae6C3q3uEWeiq-a?dl=0",
   },
   {
-    title: "GiOlaser",
+    title: "GiOLaser - Depilação a laser é melhor no inverno?",
     data: "29/07/2023",
     video:
       "https://player.vimeo.com/video/852743938?h=1da16d3ff9&badge=0&autopause=0&player_id=0&app_id=58479&autoplay=1&muted=1&loop=1" +
@@ -301,7 +301,7 @@ const info = [
     link: "hthttps://www.dropbox.com/sh/eo91da0fgo6i6au/AABXePkhBwq7Q_goinkMcBx1a?dl=0",
   },
   {
-    title: "Expansão empresarial",
+    title: "Carla Sarni - Expansão Empresarial",
     data: "29/07/2023",
     video:
       "https://player.vimeo.com/video/852737828?h=a01c9b016c&autoplay=1&muted=1&loop=1" +
@@ -411,7 +411,7 @@ export const Slides = () => {
                   </div>
                 </div>
 
-                <div className="bg-[#00000045] px-5 container text-center items-center flex flex-col  justify-center gap-6 xl:p-10 xl:h-screen xl:w-[50vw]">
+                <div className="lg:bg-[#00000045] px-5 container text-center items-center flex flex-col  justify-center gap-6 xl:p-10 xl:h-screen xl:w-[50vw]">
                   <h1 className="text-gradient  text-3xl font-MontSerrat font-bold xl:6xl 2xl:text-7xl">
                     {item.title}
                   </h1>
