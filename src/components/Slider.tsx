@@ -69,7 +69,7 @@ const info = [
     link: "https://www.dropbox.com/sh/rmgx8zko5km9u30/AAAy2HGdxpqYykkkHGKlBKZ4a?dl=0",
   },
   {
-    title: "Vídeo oficial BMouse para Salus",
+    title: "Vídeo oficial da BMouse para o Grupo Salus",
     video:
       "https://player.vimeo.com/video/852737980?h=8c6d8e7c51&badge=0&autopause=0&player_id=0&app_id=58479&autoplay=1&muted=1&loop=1" +
       "&autoplay=1&muted=1&loop=1",
@@ -85,7 +85,7 @@ const info = [
     link: "https://www.dropbox.com/sh/2lfy1dst5r1k30p/AADhIwcrt3aQfcGjdxHO9Bhaa?dl=0",
   },
   {
-    title: "Mês da Ortodontia",
+    title: "Vídeos Mês da Ortodontia",
     video:
       "https://player.vimeo.com/video/852738534?h=0898048694&badge=0&autopause=0&player_id=0&app_id=58479&autoplay=1&muted=1&loop=1" +
       "&autoplay=1&muted=1&loop=1",
@@ -93,7 +93,7 @@ const info = [
     link: "https://www.dropbox.com/sh/gaoyqojsjcfnuhv/AAC99rAA1vl-JH0q9F_14ekLa?dl=0",
   },
   {
-    title: "Save The Date",
+    title: "Save The Date - Caminhão de Prêmios",
     data: "20/20/2000",
     video:
       "https://player.vimeo.com/video/852739130?h=78648431c9&badge=0&autopause=0&player_id=0&app_id=58479&autoplay=1&muted=1&loop=1" +
@@ -129,7 +129,7 @@ const info = [
     link: "https://www.dropbox.com/sh/h9xg95a7842e2cm/AACmUVr6um7dMGupV2iKWR0La?dl=0",
   },
   {
-    title: "GiOlaser",
+    title: "Pílulas GiOlaser",
     data: "29/07/2023",
     video:
       "https://player.vimeo.com/video/852743556?h=b0ddef79d8&badge=0&autopause=0&player_id=0&app_id=58479&autoplay=1&muted=1&loop=1" +
@@ -156,7 +156,7 @@ const info = [
     link: "https://www.dropbox.com/sh/h9xg95a7842e2cm/AACmUVr6um7dMGupV2iKWR0La?dl=0",
   },
   {
-    title: "Vídeo Fernanda Sorridents",
+    title: "Lembrete - Campanha Dependente Custo Zero",
     data: "29/07/2023",
     video:
       "https://player.vimeo.com/video/852745962?h=803e5ab6e6&badge=0&autopause=0&player_id=0&app_id=58479&autoplay=1&muted=1&loop=1" +
@@ -174,7 +174,7 @@ const info = [
     link: "https://www.dropbox.com/sh/p3pw664pjhc12u2/AADC96aFZTJx4l1pk9DeHPfOa?dl=0",
   },
   {
-    title: "Pílulas B2B Olhar Certo",
+    title: "Olhar Certo - Pílulas B2B",
     data: "21/07/2023",
     video:
       "https://player.vimeo.com/video/852742174?h=510ae47726&autoplay=1&muted=1&loop=1" +
@@ -211,7 +211,7 @@ const info = [
     link: "https://www.dropbox.com/sh/gajyja174df4437/AAAgZNGtaqbR7DHmwE5KBtSga?dl=0",
   },
   {
-    title: "Pílulas B2C Olhar Certo",
+    title: "Olhar Certo - Pílulas B2C",
     data: "21/07/2023",
     video:
       "https://player.vimeo.com/video/852745486?h=db6cc406b2&autoplay=1&muted=1&loop=1" +
@@ -220,7 +220,7 @@ const info = [
     link: "https://www.dropbox.com/sh/w48smhrli6qr3yt/AABtMSDlwh7I6OFsYKbhIBqUa?dl=0",
   },
   {
-    title: "William Cotia",
+    title: "O sorriso de quem realiza seus sonhos",
     data: "21/07/2023",
     video:
       "https://player.vimeo.com/video/852746474?h=bcf38bbbc0&autoplay=1&muted=1&loop=1" +
@@ -247,7 +247,7 @@ const info = [
     link: "hthttps://www.dropbox.com/sh/eo91da0fgo6i6au/AABXePkhBwq7Q_goinkMcBx1a?dl=0",
   },
   {
-    title: "Carla sobre a Sorridents",
+    title: "Carla Sarni - Sorridents",
     data: "21/07/2023",
     video:
       "https://player.vimeo.com/video/852758484?h=f3c93e3131&autoplay=1&muted=1&loop=1" +
@@ -283,7 +283,7 @@ const info = [
     link: "hthttps://www.dropbox.com/sh/eo91da0fgo6i6au/AABXePkhBwq7Q_goinkMcBx1a?dl=0",
   },
   {
-    title: "Clareamento Dental",
+    title: "Pílulas Clareamento Dental",
     data: "21/07/2023",
     video:
       "https://player.vimeo.com/video/852763615?h=5a1550a6e1&badge=0&autopause=0&player_id=0&app_id=58479&autoplay=1&muted=1&loop=1" +
@@ -310,7 +310,7 @@ const info = [
     link: "https://www.dropbox.com/sh/jq6mflh9wfbsrma/AABVeLl1Cjt5GnFakqfSE-upa?dl=0",
   },
   {
-    title: "Vídeo Institucional Hospital Mira",
+    title: "Hospital Mira - Vídeo Institucional",
     data: "29/07/2023",
     video:
       "https://player.vimeo.com/video/852761310?h=b91cb92fc9&badge=0&autopause=0&player_id=0&app_id=58479&autoplay=1&muted=1&loop=1" +
@@ -319,7 +319,7 @@ const info = [
     link: "https://www.dropbox.com/sh/jq6mflh9wfbsrma/AABVeLl1Cjt5GnFakqfSE-upa?dl=0",
   },
   {
-    title: "Caminhão de prêmios",
+    title: "Salus - Caminhão de Prêmios",
     data: "29/07/2023",
     video:
       "https://player.vimeo.com/video/852761135?h=8c82c4a2d3&badge=0&autopause=0&player_id=0&app_id=58479&autoplay=1&muted=1&loop=1" +
@@ -328,7 +328,7 @@ const info = [
     link: "https://www.dropbox.com/sh/jq6mflh9wfbsrma/AABVeLl1Cjt5GnFakqfSE-upa?dl=0",
   },
   {
-    title: "Pack Carla Sarni",
+    title: "Carla Sarni - Pílulas",
     video:
       "https://player.vimeo.com/video/852751342?h=9f5046bedd&autoplay=1&muted=1&loop=1" +
       "&autoplay=1&muted=1&loop=1",
