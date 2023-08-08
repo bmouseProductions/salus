@@ -36,7 +36,7 @@ const info = [
     link: "https://player.vimeo.com/video/852738534?h=0898048694&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
   },
   {
-    title: "Sorrisos benefícios",
+    title: "Você já conhece o + Sorrisos Benefícios",
     video:
       "https://player.vimeo.com/video/852695733?h=d670d00059&badge=0&autopause=0&player_id=0&app_id=58479&autoplay=1&muted=1&loop=1" +
       "&autoplay=1&muted=1&loop=1",
