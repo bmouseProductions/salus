@@ -357,24 +357,27 @@ export const Slides = () => {
         className="mySwiper"
         onSlideChange={handleSlideChange}
       >
-        <SwiperSlide className="gradienta">
-          <div className="container px-3 py-24 bg-black bg-opacity-30 border-rounded transition-all duration-300 flex flex-col items-center justify-center gap-5 text-white">
-            <img className="m-auto " src={logoBranca} alt="" />
-            <h1 className="text-6xl text-gradient font-bold text-center">
-              Relatório Audiovisual Bmouse Productions
-            </h1>
-            <h2 className="text-lg font-semibold">Total de fotos: 224</h2>
-            <h2 className="text-lg font-semibold">Total de vídeos: 125</h2>
-            <button className="m-auto py-5 px-10 rounded-full bg-[#85858560] shadow-2xl text-[#ffffffdb]">
-              <a
-                href="https://www.bmouseproductions.com/view/Arquivos/Salus/links.html"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="font-bold text-xl"
-              >
-                Acessar arquivos no Dropbox
-              </a>
-            </button>
+        <SwiperSlide className="gradienta w-screen h-screeen">
+          <div className="w-full h-full px-3 py-24  border-rounded transition-all duration-300 flex flex-col items-center justify-center gap-5 text-white bg-black bg-opacity-30">
+            <img className="!w-[95%] max-w-[700px] " src={logoBranca} alt="" />
+            <div className="flex flex-col items-center gap-3">
+              <h1 className="mt-[3%] lg:max-w-[1000px] text-2xl md:text-5xl xl:text-6xl text-gradient font-[900] text-center">
+                Relatório Audiovisual Bmouse Productions
+              </h1>
+              <h2 className="text-lg font-semibold">Total de fotos: 224</h2>
+              <h2 className="text-lg font-semibold">Total de vídeos: 125</h2>
+              <button className="py-4 px-4 md:py-5 md:px-5 mt-10 rounded-full bg-[#85858560] shadow-2xl text-[#ffffffdb]">
+                <a
+                  href="https://www.bmouseproductions.com/view/Arquivos/Salus/links.html"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="font-bold text-lg md:text-xl"
+                >
+                  Acessar arquivos no Dropbox
+                </a>
+              </button>
+            </div>
+            
           </div>
         </SwiperSlide>
         {info.map((item, index) => {
@@ -386,9 +389,9 @@ export const Slides = () => {
                 minHeight: "100vh", // Defina a altura mínima como 100% da altura da visualização
               }}
             >
-              <div className="container p-2  flex flex-col gap-10 xl:gap-0 xl:flex-row items-center">
-                <div className="w-ful px-3 bg-opacity-20 backdrop-blur-md border-rounded transition-all duration-300 text-black shadow-xl flex flex-col justify-center xl:w-[50vw]">
-                  <div className="h-[50vw]  xl:h-screen ">
+              <div className="w-full p-2 flex flex-col gap-5 lg:gap-2 lg:flex-row items-center justify-center bg-opacity-20 backdrop-blur-md">
+                <div className="w-full border-rounded transition-all duration-300 text-black shadow-xl flex flex-col justify-center xl:w-[50vw]">
+                  <div className="h-[38vh] md:h-[30vw] lg:h-screen mb-3">
                     <iframe
                       src={item.video}
                       allow="fullscreen; picture-in-picture"
@@ -402,25 +405,28 @@ export const Slides = () => {
                   </div>
                 </div>
 
-                <div className="lg:bg-[#00000045] px-5 container text-center items-center flex flex-col  justify-center gap-6 xl:p-10 xl:h-screen xl:w-[50vw]">
-                  <h1 className="text-gradient  text-3xl font-MontSerrat font-bold xl:6xl 2xl:text-7xl">
-                    {item.title}
-                  </h1>
+                <div className=" w-full h-full xl:p-10 xl:h-screen xl:w-[50vw] flex justify-center lg:bg-[#00000045]">
+                  <div className="px-5 py-3  text-center items-center flex flex-col  justify-center gap-3 md:gap-6">
+                    <h1 className="text-gradient text-4xl font-MontSerrat font-[900] xl:6xl 2xl:text-7xl">
+                      {item.title}
+                    </h1>
 
-                  <p className="text-xl font-bold xl:w-[70%] text-[#ffffff]">
-                    Quantidade de vídeos: {item.quantidade}
-                  </p>
+                    <p className=" text-lg md:text-xl font-bold xl:w-[70%] text-[#ffffff]">
+                      Quantidade de vídeos: {item.quantidade}
+                    </p>
 
-                  <button className="py-5 px-10 rounded-full bg-[#85858560] shadow-2xl text-[#ffffffdb]">
-                    <a
-                      href={item.link}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="font-bold text-xl"
-                    >
-                      Acessar arquivo no Dropbox
-                    </a>
-                  </button>
+                    <button className="py-4 px-4 md:py-5 md:px-5 rounded-full bg-[#85858560] shadow-2xl text-[#ffffffdb]">
+                      <a
+                        href={item.link}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="font-bold text-lg md:text-xl"
+                      >
+                        Acessar arquivo no Dropbox
+                      </a>
+                    </button>
+                  </div>
+                  
                 </div>
               </div>
             </SwiperSlide>
