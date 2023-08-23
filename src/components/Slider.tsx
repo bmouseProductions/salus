@@ -292,6 +292,14 @@ const info = [
     link: "hthttps://www.dropbox.com/sh/eo91da0fgo6i6au/AABXePkhBwq7Q_goinkMcBx1a?dl=0",
   },
   {
+    title: "Dia dos Pais Cléber Sarni",
+    video:
+      "https://player.vimeo.com/video/857149218?h=953ccceea0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&autoplay=1&muted=1&loop=1" +
+      "&autoplay=1&muted=1&loop=1",
+    quantidade: 3,
+    link: "https://www.dropbox.com/sh/uehu3i5l13orf7v/AAAhvHfVzHP_qttkXXZK9-16a?dl=0",
+  },
+  {
     title: "Carla Sarni - Expansão Empresarial",
     data: "29/07/2023",
     video:
@@ -304,7 +312,7 @@ const info = [
     title: "Carla Sarni - Simplifique sua vida",
     data: "29/07/2023",
     video:
-      "https://player.vimeo.com/video/852763042?h=e974ea1278&badge=0&autopause=0&player_id=0&app_id=58479&autoplay=1&muted=1&loop=1" +
+      "https://player.vimeo.com/video/852763042?h=e974ea1278&badge=0&autopause=0&player_id=0&app_id=58479" +
       "&autoplay=1&muted=1&loop=1",
     quantidade: 1,
     link: "https://www.dropbox.com/sh/jq6mflh9wfbsrma/AABVeLl1Cjt5GnFakqfSE-upa?dl=0",
@@ -334,6 +342,106 @@ const info = [
       "&autoplay=1&muted=1&loop=1",
     quantidade: 7,
     link: "https://www.dropbox.com/sh/jq6mflh9wfbsrma/AABVeLl1Cjt5GnFakqfSE-upa?dl=0",
+  },
+  {
+    title: "Incentivo ao Engajamento",
+    video:
+      "https://player.vimeo.com/video/857140870?h=77d7101d2e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" +
+      "&autoplay=1&muted=1&loop=1",
+    quantidade: 1,
+    link: "https://www.dropbox.com/sh/qnpld89daidj6m6/AAAqOTG9S7QbnGTkvmUZ8UOja?dl=0",
+  },
+  {
+    title: "Amo Vacinas B2B - Autismo",
+    video:
+      "https://player.vimeo.com/video/857143048?h=2f950e5cbb&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" +
+      "&autoplay=1&muted=1&loop=1",
+    quantidade: 1,
+    link: "https://www.dropbox.com/scl/fo/1xuddm3b1193kh7kdrf3o/h?rlkey=weysddcnlrkrbscd6noevf2aw&dl=0",
+  },
+
+
+  
+  //aquiiiiiii
+  {
+    title: "Conhecendo a Olhar Certo - Dra. Priscila",
+    video:
+      "https://player.vimeo.com/video/857143468?h=24cf5104d4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" +
+      "&autoplay=1&muted=1&loop=1",
+    quantidade: 1,
+    link: "https://www.dropbox.com/scl/fo/asxs5qnq1cc7kyisr83c4/h?rlkey=lss7fbcrhbyd77ladkzi37orc&dl=0",
+  },
+  {
+    title: "Expansão empresarial -  Depoimentos",
+    video:
+      "https://player.vimeo.com/video/857144110?h=d7bb0ea09d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" +
+      "&autoplay=1&muted=1&loop=1",
+    quantidade: 3,
+    link: "https://www.dropbox.com/scl/fo/2sgyuo22pzrmrk7df8c7z/h?rlkey=3qwvk7gwrx86b8khzjw7m2xju&dl=0",
+  },
+  {
+    title: "Sobre a Franquia - Dra. Priscila",
+    video:
+      "https://player.vimeo.com/video/857144530?h=561561b771&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" +
+      "&autoplay=1&muted=1&loop=1",
+    quantidade: 1,
+    link: "https://www.dropbox.com/scl/fo/jf5c5ko6r62cdhmcv4q2w/h?rlkey=r5y70t3fdz0qygm0jh3yfde9l&dl=0",
+  },
+  {
+    title: "Conteúdo B2B - Dra. Priscila",
+    video:
+      "https://player.vimeo.com/video/857145369?h=712b4447ee&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" +
+      "&autoplay=1&muted=1&loop=1",
+    quantidade: 4,
+    link: "https://www.dropbox.com/scl/fo/6ry8y02zx4n2e40ybuwmx/h?rlkey=502jcdz2mbc50m8x5zkgvwnuy&dl=0",
+  },
+  {
+    title: "Jogadores SPFC - Cotia",
+    video:
+      "https://player.vimeo.com/video/857241361?h=a583fb252e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" +
+      "&autoplay=1&muted=1&loop=1",
+    quantidade: 4,
+    link: "https://www.dropbox.com/scl/fo/osu9w95qlmkwm2ic8qsvr/h?rlkey=ciav0iwam45eqrclk9juufs8e&dl=0",
+  },
+  {
+    title: "Campanha de Implantes",
+    video:
+      "https://player.vimeo.com/video/857146372?h=6a36385c47&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" +
+      "&autoplay=1&muted=1&loop=1",
+    quantidade: 8,
+    link: "https://www.dropbox.com/scl/fo/gc0vj6bss720hi0w5phh1/h?rlkey=n1hp00glcaiogmc15hms4q22t&dl=0",
+  },
+  {
+    title: "Pílulas Dra. GioLaser",
+    video:
+      "https://player.vimeo.com/video/857146912?h=077480d789&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" +
+      "&autoplay=1&muted=1&loop=1",
+    quantidade: 5,
+    link: "https://www.dropbox.com/scl/fo/900m3khemy8y8qlmzin5m/h?rlkey=064dw1l39rgyyy3y3tbucx5nn&dl=0",
+  },
+  {
+    title: "Depilação a Laser de Alexandrite",
+    video:
+      "https://player.vimeo.com/video/857147216?h=442c0733b9&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" +
+      "&autoplay=1&muted=1&loop=1",
+    quantidade: 1,
+    link: "https://www.dropbox.com/scl/fo/w1eqcal9n38nfh6hprei4/h?rlkey=z6av7ehw2hu1x8rfiy197fkh7&dl=0",
+  },
+  {
+    title: "Transformando Vidas - Gustavo e Vanessa",
+    video:
+      "https://player.vimeo.com/video/857147685?h=7c2fb9c39e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" +
+      "&autoplay=1&muted=1&loop=1",
+    quantidade: 2,
+    link: "https://www.dropbox.com/scl/fo/pmcl2sakqav1is0gs3huj/h?rlkey=juy9b6noe2tlwdo917azmecyu&dl=0",
+  },
+  {
+    title: "Endomarketing - Avisos News",
+    video:
+      "https://player.vimeo.com/video/857244563?h=d1dc7392fd&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" +
+      "&autoplay=1&muted=1&loop=1",
+    quantidade: 4,
+    link: "https://www.dropbox.com/scl/fo/jnjnhswcuteh5cjw21v06/h?rlkey=xuq06ng3qao7iqgy62yqcg7xu&dl=0",
   },
 ];
 
@@ -365,7 +473,7 @@ export const Slides = () => {
                 Relatório Audiovisual Bmouse Productions
               </h1>
               <h2 className="text-lg font-semibold">Total de fotos: 224</h2>
-              <h2 className="text-lg font-semibold">Total de vídeos: 125</h2>
+              <h2 className="text-lg font-semibold">Total de vídeos: 156</h2>
               <button className="py-4 px-4 md:py-5 md:px-5 mt-10 rounded-full bg-[#85858560] shadow-2xl text-[#ffffffdb]">
                 <a
                   href="https://www.bmouseproductions.com/view/Arquivos/Salus/links.html"
